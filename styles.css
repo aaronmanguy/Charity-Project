@@ -1,0 +1,14 @@
+.head {
+  font-family: Georgia;
+  font-weight: 900;
+}
+
+.body {
+  font-size: large;
+  font-family: Georgia;
+  width: 100%;
+}
+
+.pic {
+  width: 45%;
+}
