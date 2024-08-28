@@ -1,9 +1,15 @@
+.html {
+  background-color: black;
+}
 .head {
+  color: white;
+  text-decoration: underline yellow;
+  text-decoration-skip-ink: none;
   font-family: Georgia;
-  font-weight: 900;
 }
 
 .body {
+  color: white;
   font-size: large;
   font-family: Georgia;
   width: 100%;
@@ -11,4 +17,6 @@
 
 .pic {
   width: 45%;
+  margin-right: 15px;
+  box-shadow: 10px 15px yellow;
 }
