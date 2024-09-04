@@ -1,22 +1,29 @@
-.html {
+.body {
+  padding: 15px;
   background-color: black;
 }
 .head {
+  text-align: center;
   color: white;
   text-decoration: underline yellow;
   text-decoration-skip-ink: none;
   font-family: Georgia;
 }
 
-.body {
+.text {
   color: white;
-  font-size: large;
   font-family: Georgia;
   width: 100%;
 }
 
-.pic {
-  width: 45%;
+.pic1 {
+  width: 47%;
+  margin-left: 15px;
+  box-shadow: 10px 15px yellow;
+}
+.pic2 {
+  float: right;
+  width: 47%;
   margin-right: 15px;
   box-shadow: 10px 15px yellow;
 }
